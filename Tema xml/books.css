@@ -1,0 +1,30 @@
+books{
+ display	     :block;
+ width		     :100%;
+ background-color    :gray;
+ background.position :80% 10px;
+ margin		     :0;
+ font-family	     :Verdana, Arial, Helvetica;
+}
+
+book{
+ display	:block;
+ background-color :silver;
+ width		:70%;
+ margin-bottom  :20px;
+ margin-top	:15px;
+ margin-left    :10px;
+}
+
+author, publisher, price, contentType, isbn{
+ display	  :block;
+ background-color :#ffe4c4;
+ font-size        : x-small;
+ padding          :2px;
+}
+
+title{
+ display	:block;
+ color		:Marron;
+ font-size	:medium;
+}

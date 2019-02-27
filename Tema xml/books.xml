@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="books.css"?>
+
+<books>
+ <book>
+  <title>El codigo Da Vinci</title>
+  <author>Brown, Dan</author>
+  <publisher>DoubleDay</publisher>
+  <price>$400.00</price>
+  <contentType>fiction</contentType>
+  <isbn>12345678</isbn>
+ </book>
+ <book>
+  <title>State of fear</title>
+  <author>Crinchton, Micheal</author>
+  <publisher>Marper Collins</publisher>
+  <price>$200.00</price>
+  <contentType>fiction</contentType>
+  <isbn>987654321</isbn>
+ </book>
+ <book>
+  <title>Kamasutra</title>
+  <author>S/A</author>
+  <publisher>S/E</publisher>
+  <price>$500.00</price>
+  <contentType>Educativo</contentType>
+  <isbn>5432198769</isbn>
+ </book>
+</books>

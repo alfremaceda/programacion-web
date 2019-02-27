@@ -1,0 +1,32 @@
+articulo{
+	font-family:     arial,"Times New Roman";
+	font-size:       10pt;
+	margin:          5px;
+}
+
+articulo, p, seccion, titulo{
+	display:        block;
+}
+
+p, titulo{
+	border-style:   solid;
+        border-width:   1px;
+}
+
+url{
+	color:          blue;
+        background:     silver;
+}
+
+articulo titulo{
+	font-size:      larger;
+	font-weight:    bold;
+	padding:        10px;
+	margin:         25px;
+}
+
+seccion titulo{
+	font style:     italic;
+	padding:        0px;
+	margin:         10px;
+}

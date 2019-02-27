@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="articulo.css"?>
+
+<articulo>
+	<titulo>Hojas de estilo XML</titulo>
+	<fecha>25 de febrero de 2019</fecha>
+	<resumen>Flexibilidad en las hojas de estilo en un documento</resumen>
+	<palabras-clave>XML, CSS, XSL, web</palabras-clave>
+	 <seccion>
+	  <p>Envie sus comentarios a: <url protocolo="mailto">fvazquez@iitehuacan.edu.mx</url></p>
+	 </seccion>
+
+	<seccion>
+	 <titulo>Realce</titulo>
+	  <p>Las hojas de estilo se heredaron de SGML. Estas se originaron en las aplicaciones de publicacion y manejo de documentos. XSL es la hoja de estilo estandar de XML, vaya al sitio<url>http//:www.w3.org</url></p>
+ 	 </seccion>
+
+	<seccion>
+ 	 <titulo>Como funciona XSL</titulo>
+	  <p>Una hoja de estilo XSL es un conjunto de normas que especifican el formato a ciertos documentos. Las hojas de estilo tienen normas como titulo, parrafos y palabras clave.</p>
+	</seccion>
+</articulo>
